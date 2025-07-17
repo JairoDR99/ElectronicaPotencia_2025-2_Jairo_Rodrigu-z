@@ -40,18 +40,3 @@ Donde:
 
 ---
 
-### ⚠️ ¿Por qué todo esto?
-
-Porque en la rúbrica te piden:
-
-- Teoría clara y precisa.
-- Mínimo **3 referencias**.
-- Una **fórmula bien escrita**.
-- Explicación completa (≤ 500 palabras).
-
-Este texto cumple con todo eso.
-
----
-
-¿Quieres que ahora preparemos la simulación de un diodo de potencia en LTspice para que la adjuntes como archivo `.asc` y la imagen?
-```
