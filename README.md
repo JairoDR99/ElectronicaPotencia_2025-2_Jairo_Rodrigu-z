@@ -5,6 +5,8 @@
 Explicar los principios de funcionamiento de los diodos de potencia y simular su comportamiento en LTspice.
 
 ## Contenido
+- [x] Teoría
+- [x] Simulación en LTspice
 - [ ] Implementación (no requerida en esta entrega)
 - [x] Formato en Markdown
 
